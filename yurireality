@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="./blog-style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <div class=home>
+        <title>Noah Smyth Development</title>
+
+
+</head>
+
+
+<nav>
+    <a id="logo" href="#">NoahSmythDevelopment</a>
+</nav>
+<br><br>
+
+
+
+<div text-container>
+    <p id="welcome"></p>
+</div>
+<div text-container>
+    <p id="homescreenmessage">Yuri Reality. Coming Soon.<br><br></p>
+    <a href="./discord.html" title="Button">
+        <button id=joinbutton>Join Now</button>
+    </a><br><br><br>
+</div>
+</div>
+<div class="text">
+    <p id="textone">Welcome to the official ChatCentral website. Here you can find our server invite, our objectives and what's coming up.</p>
+</div>
+<div id="bottom">
+    <p>This website was made by Noah Smyth.</p>
+    <a class=contact href="mailto:noahjohnsmyth@gmail.com">Send me an email</a>
+</div>
+
+
+<div class=" validator ">
+</div>
+</body>
+
+</html>
